@@ -38,6 +38,8 @@ NIM: 2609116018
 11.Fungsi terakhir digunakan untuk menampilkan hasil data mahasiswa setelah sebelumnya dilakukan proses edit atau hapus data. Pada bagian ini, program akan menampilkan semua data mahasiswa yang masih tersimpan, kemudian menampilkan juga mahasiswa yang masuk ke dalam kategori lulus dan remedi. Dengan begitu, pengguna bisa melihat apakah perubahan yang dilakukan sebelumnya sudah sesuai atau belum. Setelah semua data selesai ditampilkan, program akan memberikan pesan penutup dengan mencantumkan nama pengguna yang sudah dimasukkan di awal program. Pesan tersebut menandakan bahwa seluruh proses sudah selesai dan program telah selesai digunakan.<br>
 
 
+<img width="478" height="436" alt="Screenshot 2026-09-08 225042" src="https://github.com/user-attachments/assets/7116e8dc-463f-4c79-b7a9-a0a17bc95bc5" /> <br>
+`Hasil output`
 
 
 
